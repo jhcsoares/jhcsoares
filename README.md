@@ -12,6 +12,6 @@
 #### Reach me through LinkedIn:
 <div style="display: inline_block">
   <a href="https://www.linkedin.com/in/joao-henrique-campos-soares/" target="_blank">
-    <img align="center" alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+    <img alt="linkedin" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
   </a>
 </div>
